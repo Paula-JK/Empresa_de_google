@@ -1,1 +1,1 @@
-# Empresa_de_google
+Empresa_tecnologíca 
